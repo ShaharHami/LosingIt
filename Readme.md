@@ -3,7 +3,7 @@ is a game we built for the Global Game Jam 2021. </br>
 </br>
 **The team:** </br>
 * Art - Lozan Naseraldin
-* Game Design - Afik
+* Game Design - Afik Yaari
 * Sound - Liron Linker 
 * Unity Dev - Shay Krainer 
 * Unity Dev - Shahar Hami

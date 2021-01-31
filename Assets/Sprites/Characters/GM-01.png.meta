@@ -1,0 +1,396 @@
+fileFormatVersion: 2
+guid: 5a2e23a8622be574c93c40651cd0f2be
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1001820517701793519
+    second: GM-01_0
+  - first:
+      213: -3494720685193710091
+    second: GM-01_1
+  - first:
+      213: -9023886912869019519
+    second: GM-01_2
+  - first:
+      213: -704052259631076447
+    second: GM-01_3
+  - first:
+      213: 3767012761601022860
+    second: GM-01_4
+  - first:
+      213: 5216402133809272867
+    second: GM-01_5
+  - first:
+      213: -4641011526430423829
+    second: GM-01_6
+  - first:
+      213: -8993039948523733844
+    second: GM-01_7
+  - first:
+      213: 3719781662353483013
+    second: GM-01_8
+  - first:
+      213: 3322433675792626286
+    second: GM-01_9
+  - first:
+      213: 8227670447311936098
+    second: GM-01_10
+  - first:
+      213: 7929399036405432333
+    second: GM-01_11
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 950
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GM-01_0
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 9675
+        width: 1690
+        height: 3439
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 119cfa90c81d812f0800000000000000
+      internalID: -1001820517701793519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GM-01_1
+      rect:
+        serializedVersion: 2
+        x: 2788
+        y: 9675
+        width: 1688
+        height: 3439
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f5b1d97d02408fc0800000000000000
+      internalID: -3494720685193710091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GM-01_2
+      rect:
+        serializedVersion: 2
+        x: 5515
+        y: 9675
+        width: 1689
+        height: 3439
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1805521d9a6b4c280800000000000000
+      internalID: -9023886912869019519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GM-01_3
+      rect:
+        serializedVersion: 2
+        x: 7653
+        y: 9675
+        width: 1683
+        height: 3439
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1abe0693334ba36f0800000000000000
+      internalID: -704052259631076447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GM-01_4
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 5351
+        width: 2098
+        height: 3644
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8b979fe52e174430800000000000000
+      internalID: 3767012761601022860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GM-01_5
+      rect:
+        serializedVersion: 2
+        x: 3044
+        y: 5351
+        width: 2097
+        height: 3644
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3289a4f5a12646840800000000000000
+      internalID: 5216402133809272867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GM-01_6
+      rect:
+        serializedVersion: 2
+        x: 5447
+        y: 5351
+        width: 2104
+        height: 3644
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be40f981b90d79fb0800000000000000
+      internalID: -4641011526430423829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GM-01_7
+      rect:
+        serializedVersion: 2
+        x: 7952
+        y: 5351
+        width: 2029
+        height: 3644
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cac785160dd423380800000000000000
+      internalID: -8993039948523733844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GM-01_8
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 1123
+        width: 1684
+        height: 3427
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5056792b6b15f9330800000000000000
+      internalID: 3719781662353483013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GM-01_9
+      rect:
+        serializedVersion: 2
+        x: 2712
+        y: 1123
+        width: 1683
+        height: 3427
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e623a6b33d7ab1e20800000000000000
+      internalID: 3322433675792626286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GM-01_10
+      rect:
+        serializedVersion: 2
+        x: 5237
+        y: 1123
+        width: 2029
+        height: 3637
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26ad1050eae8e2270800000000000000
+      internalID: 8227670447311936098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GM-01_11
+      rect:
+        serializedVersion: 2
+        x: 7802
+        y: 1123
+        width: 2029
+        height: 3637
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d00454f6962ea0e60800000000000000
+      internalID: 7929399036405432333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

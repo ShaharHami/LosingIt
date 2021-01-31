@@ -1,0 +1,41 @@
+/Library
+/Temp
+/.idea
+/Logs
+/build
+
+*/*Assembly-CSharp.csproj
+*/*Assembly-CSharp-firstpass.csproj
+# ===================================== #
+# Visual Studio / MonoDevelop generated #
+# ===================================== #
+ExportedObj/
+obj/
+*.svd
+*.userprefs
+*/*.csproj
+/*.csproj
+*.pidb
+*.suo
+/*.sln
+*.user
+*.unityproj
+*.booproj
+ 
+# ============ #
+# OS generated #
+# ============ #
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+*.apk
+MyTest.txt
+
+.vscode/settings.json
+.vscode/launch.json
+.idea
+.vscode

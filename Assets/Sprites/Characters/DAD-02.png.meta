@@ -1,0 +1,468 @@
+fileFormatVersion: 2
+guid: f376672e622bd8b40801d85f5f8349c7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3514145201044005899
+    second: DAD-02_0
+  - first:
+      213: -6369815146045209769
+    second: DAD-02_1
+  - first:
+      213: -796063034007939577
+    second: DAD-02_2
+  - first:
+      213: 437243219473307418
+    second: DAD-02_3
+  - first:
+      213: -6745564099720895465
+    second: DAD-02_4
+  - first:
+      213: 1554459083820097049
+    second: DAD-02_5
+  - first:
+      213: -8589088441571340507
+    second: DAD-02_6
+  - first:
+      213: -1193200366438648949
+    second: DAD-02_7
+  - first:
+      213: -745560646535265170
+    second: DAD-02_8
+  - first:
+      213: 3125418857233231105
+    second: DAD-02_9
+  - first:
+      213: -4734109782943556096
+    second: DAD-02_10
+  - first:
+      213: -7292340745776999090
+    second: DAD-02_11
+  - first:
+      213: -8430095526723594236
+    second: DAD-02_12
+  - first:
+      213: -853016117740815156
+    second: DAD-02_13
+  - first:
+      213: 5685874642698136734
+    second: DAD-02_14
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 950
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DAD-02_0
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 4958
+        width: 1515
+        height: 1632
+      alignment: 9
+      pivot: {x: 0.5, y: -0.8}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b042f5d0170c4c030800000000000000
+      internalID: 3514145201044005899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DAD-02_1
+      rect:
+        serializedVersion: 2
+        x: 2846
+        y: 4958
+        width: 1514
+        height: 1632
+      alignment: 9
+      pivot: {x: 0.5, y: -0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75382179fded997a0800000000000000
+      internalID: -6369815146045209769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DAD-02_2
+      rect:
+        serializedVersion: 2
+        x: 4604
+        y: 4958
+        width: 1515
+        height: 1632
+      alignment: 9
+      pivot: {x: 0.5, y: -0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 706132763e0d3f4f0800000000000000
+      internalID: -796063034007939577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DAD-02_3
+      rect:
+        serializedVersion: 2
+        x: 6365
+        y: 4958
+        width: 1512
+        height: 1632
+      alignment: 9
+      pivot: {x: 0.5, y: -0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1797293466611600800000000000000
+      internalID: 437243219473307418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DAD-02_4
+      rect:
+        serializedVersion: 2
+        x: 8126
+        y: 4958
+        width: 1510
+        height: 1632
+      alignment: 9
+      pivot: {x: 0.5, y: -0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 714228ad031f262a0800000000000000
+      internalID: -6745564099720895465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DAD-02_5
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 3155
+        width: 1515
+        height: 1631
+      alignment: 9
+      pivot: {x: 0.5, y: -0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91ed9f40d4c829510800000000000000
+      internalID: 1554459083820097049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DAD-02_6
+      rect:
+        serializedVersion: 2
+        x: 2846
+        y: 3155
+        width: 1514
+        height: 1631
+      alignment: 9
+      pivot: {x: 0.5, y: -0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52f0abfb19d6dc880800000000000000
+      internalID: -8589088441571340507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DAD-02_7
+      rect:
+        serializedVersion: 2
+        x: 4604
+        y: 3155
+        width: 1515
+        height: 1631
+      alignment: 9
+      pivot: {x: 0.5, y: -0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b83fe8ca696e07fe0800000000000000
+      internalID: -1193200366438648949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DAD-02_8
+      rect:
+        serializedVersion: 2
+        x: 6365
+        y: 3155
+        width: 1512
+        height: 1631
+      alignment: 9
+      pivot: {x: 0.5, y: -0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6441c8ca8c37a5f0800000000000000
+      internalID: -745560646535265170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DAD-02_9
+      rect:
+        serializedVersion: 2
+        x: 8126
+        y: 3155
+        width: 1510
+        height: 1631
+      alignment: 9
+      pivot: {x: 0.5, y: -0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10da1b734e7bf5b20800000000000000
+      internalID: 3125418857233231105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DAD-02_10
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 1356
+        width: 1515
+        height: 1626
+      alignment: 9
+      pivot: {x: 0.5, y: -0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00e92fb1c301d4eb0800000000000000
+      internalID: -4734109782943556096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DAD-02_11
+      rect:
+        serializedVersion: 2
+        x: 2846
+        y: 1356
+        width: 1514
+        height: 1626
+      alignment: 9
+      pivot: {x: 0.5, y: -0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e45dada6ab66cca90800000000000000
+      internalID: -7292340745776999090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DAD-02_12
+      rect:
+        serializedVersion: 2
+        x: 4604
+        y: 1356
+        width: 1515
+        height: 1626
+      alignment: 9
+      pivot: {x: 0.5, y: -0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 408d70378c8420b80800000000000000
+      internalID: -8430095526723594236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DAD-02_13
+      rect:
+        serializedVersion: 2
+        x: 6365
+        y: 1356
+        width: 1512
+        height: 1626
+      alignment: 9
+      pivot: {x: 0.5, y: -0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccc30624c5a7924f0800000000000000
+      internalID: -853016117740815156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DAD-02_14
+      rect:
+        serializedVersion: 2
+        x: 8126
+        y: 1356
+        width: 1510
+        height: 1626
+      alignment: 9
+      pivot: {x: 0.5, y: -0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9c6c6bccd848ee40800000000000000
+      internalID: 5685874642698136734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

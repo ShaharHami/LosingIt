@@ -1,0 +1,468 @@
+fileFormatVersion: 2
+guid: 710894f12cf87ee409c97a171f70ee12
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3617641207474492317
+    second: MOM-02_0
+  - first:
+      213: -1922196361441330320
+    second: MOM-02_1
+  - first:
+      213: 8764601330972525432
+    second: MOM-02_2
+  - first:
+      213: 598350768693160101
+    second: MOM-02_3
+  - first:
+      213: -1297964978211544576
+    second: MOM-02_4
+  - first:
+      213: -8771502698006392827
+    second: MOM-02_5
+  - first:
+      213: -2644069257432177883
+    second: MOM-02_6
+  - first:
+      213: -2963114763966084827
+    second: MOM-02_7
+  - first:
+      213: -8962556413053135906
+    second: MOM-02_8
+  - first:
+      213: 381685456494332204
+    second: MOM-02_9
+  - first:
+      213: -4084279645852186681
+    second: MOM-02_10
+  - first:
+      213: 3817646271871928428
+    second: MOM-02_11
+  - first:
+      213: -6345485063085689504
+    second: MOM-02_12
+  - first:
+      213: 3312648631224517433
+    second: MOM-02_13
+  - first:
+      213: 1180994810866427361
+    second: MOM-02_14
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 950
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MOM-02_0
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 4999
+        width: 1890
+        height: 1723
+      alignment: 9
+      pivot: {x: 0.5, y: -0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d931558d281743230800000000000000
+      internalID: 3617641207474492317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOM-02_1
+      rect:
+        serializedVersion: 2
+        x: 2283
+        y: 4999
+        width: 1890
+        height: 1723
+      alignment: 9
+      pivot: {x: 0.5, y: -0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07bbdbfe79cf255e0800000000000000
+      internalID: -1922196361441330320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOM-02_2
+      rect:
+        serializedVersion: 2
+        x: 4229
+        y: 4999
+        width: 1885
+        height: 1723
+      alignment: 9
+      pivot: {x: 0.5, y: -0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8738882497e12a970800000000000000
+      internalID: 8764601330972525432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOM-02_3
+      rect:
+        serializedVersion: 2
+        x: 6170
+        y: 4999
+        width: 1887
+        height: 1723
+      alignment: 9
+      pivot: {x: 0.5, y: -0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a8a90b9ad4cd4800800000000000000
+      internalID: 598350768693160101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOM-02_4
+      rect:
+        serializedVersion: 2
+        x: 8110
+        y: 4999
+        width: 1890
+        height: 1723
+      alignment: 9
+      pivot: {x: 0.5, y: -0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 002adceaab3bcfde0800000000000000
+      internalID: -1297964978211544576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOM-02_5
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 3038
+        width: 1890
+        height: 1726
+      alignment: 9
+      pivot: {x: 0.5, y: -0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 500d2f205cc554680800000000000000
+      internalID: -8771502698006392827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOM-02_6
+      rect:
+        serializedVersion: 2
+        x: 2283
+        y: 3038
+        width: 1890
+        height: 1726
+      alignment: 9
+      pivot: {x: 0.5, y: -0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 523693de4016e4bd0800000000000000
+      internalID: -2644069257432177883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOM-02_7
+      rect:
+        serializedVersion: 2
+        x: 4229
+        y: 3038
+        width: 1885
+        height: 1726
+      alignment: 9
+      pivot: {x: 0.5, y: -0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 529061942d6e0e6d0800000000000000
+      internalID: -2963114763966084827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOM-02_8
+      rect:
+        serializedVersion: 2
+        x: 6170
+        y: 3038
+        width: 1887
+        height: 1726
+      alignment: 9
+      pivot: {x: 0.5, y: -0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed391909d6a9e9380800000000000000
+      internalID: -8962556413053135906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOM-02_9
+      rect:
+        serializedVersion: 2
+        x: 8110
+        y: 3038
+        width: 1890
+        height: 1726
+      alignment: 9
+      pivot: {x: 0.5, y: -0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c29074286e40c4500800000000000000
+      internalID: 381685456494332204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOM-02_10
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 1083
+        width: 1890
+        height: 1727
+      alignment: 9
+      pivot: {x: 0.5, y: -0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c74f913d49b157c0800000000000000
+      internalID: -4084279645852186681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOM-02_11
+      rect:
+        serializedVersion: 2
+        x: 2283
+        y: 1083
+        width: 1890
+        height: 1727
+      alignment: 9
+      pivot: {x: 0.5, y: -0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c684509be010bf430800000000000000
+      internalID: 3817646271871928428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOM-02_12
+      rect:
+        serializedVersion: 2
+        x: 4229
+        y: 1083
+        width: 1885
+        height: 1727
+      alignment: 9
+      pivot: {x: 0.5, y: -0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 065fa3774fe40f7a0800000000000000
+      internalID: -6345485063085689504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOM-02_13
+      rect:
+        serializedVersion: 2
+        x: 6170
+        y: 1077
+        width: 1887
+        height: 1727
+      alignment: 9
+      pivot: {x: 0.5, y: -0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93342d10164e8fd20800000000000000
+      internalID: 3312648631224517433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MOM-02_14
+      rect:
+        serializedVersion: 2
+        x: 8110
+        y: 1077
+        width: 1890
+        height: 1727
+      alignment: 9
+      pivot: {x: 0.5, y: -0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e5e547f58cb36010800000000000000
+      internalID: 1180994810866427361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

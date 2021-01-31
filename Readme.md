@@ -13,3 +13,5 @@ The player needs to finish making his game for the jam while dealing with diffre
 Take care of your baby, entertain your kid, treat your dog and keep your teenager from being loud - all while trying to make your game! You gotta hurry! 
 There's limited time and much to do. Try to not lose your sanity on the way... Good Luck! 
 All the assets used in the game were made by our team's artist for this project.
+
+![I'm Losing It](/images/lala.png)

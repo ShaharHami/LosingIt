@@ -1,5 +1,5 @@
 # I'm Losing IT! 
-is a game we built for the Global Game Jam 2021. </br>
+a game built for the Global Game Jam 2021. </br>
 </br>
 **The team:** </br>
 * Art - Lozan Naseraldin

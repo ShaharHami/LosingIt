@@ -1,7 +1,7 @@
 # I'm Losing IT! 
 is a game we built for the Global Game Jam 2021. </br>
 The team: </br>
-* ** Art - Lozan Naseraldin
+* **Art - Lozan Naseraldin
 * **Game Design - Afik **
 Sound - Liron Linker 
 Unity Dev - Shay Krainer 

@@ -14,6 +14,7 @@ public abstract class Obstacle : MonoBehaviour
     public AudioSource source;
     public AudioClip annoySfx, calmSfx;
     public Color annoyedColor;
+    public GameObject barGO;
 
     protected ObstacleManager _obstacleManager;
     
@@ -21,6 +22,7 @@ public abstract class Obstacle : MonoBehaviour
     {
         _obstacleManager = FindObjectOfType<ObstacleManager>();
         bar.fillAmount = 0;
+        // barGO.SetActive(false);
     }
 
     public enum State
@@ -34,6 +36,7 @@ public abstract class Obstacle : MonoBehaviour
     public virtual void Annoyed()
     {
         state = State.Annoying;
+        // barGO.SetActive(true);
         calmDownMeter = 1f;
         bar.fillAmount = 1;
     }
@@ -41,6 +44,7 @@ public abstract class Obstacle : MonoBehaviour
     public virtual void Calm()
     {
         state = State.Idle;
+        // barGO.SetActive(false);
         calmDownMeter = 0;
     }
 

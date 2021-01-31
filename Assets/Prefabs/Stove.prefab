@@ -71,8 +71,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 5
-  m_Sprite: {fileID: -107538133228768122, guid: 7f01ba472060aee44b230f7353eafdc1,
-    type: 3}
+  m_Sprite: {fileID: -107538133228768122, guid: 7f01ba472060aee44b230f7353eafdc1, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -93,8 +92,6 @@ GameObject:
   m_Component:
   - component: {fileID: 4131064079660102101}
   - component: {fileID: 5723825448076515638}
-  - component: {fileID: 2763223425162372759}
-  - component: {fileID: 1506663268723469632}
   m_Layer: 5
   m_Name: Canvas
   m_TagString: Untagged
@@ -144,46 +141,6 @@ Canvas:
   m_SortingLayerID: 0
   m_SortingOrder: 10
   m_TargetDisplay: 0
---- !u!114 &2763223425162372759
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3136758342125844801}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_UiScaleMode: 0
-  m_ReferencePixelsPerUnit: 100
-  m_ScaleFactor: 1
-  m_ReferenceResolution: {x: 800, y: 600}
-  m_ScreenMatchMode: 0
-  m_MatchWidthOrHeight: 0
-  m_PhysicalUnit: 3
-  m_FallbackScreenDPI: 96
-  m_DefaultSpriteDPI: 96
-  m_DynamicPixelsPerUnit: 1
-  m_PresetInfoIsWorld: 1
---- !u!114 &1506663268723469632
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3136758342125844801}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: dc42784cf147c0c48a680349fa168899, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_IgnoreReversedGraphics: 1
-  m_BlockingObjects: 0
-  m_BlockingMask:
-    serializedVersion: 2
-    m_Bits: 4294967295
 --- !u!1 &3952733056250212778
 GameObject:
   m_ObjectHideFlags: 0
@@ -547,8 +504,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: -8508765909815968611, guid: 7f01ba472060aee44b230f7353eafdc1,
-    type: 3}
+  m_Sprite: {fileID: -8508765909815968611, guid: 7f01ba472060aee44b230f7353eafdc1, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -742,6 +698,7 @@ MonoBehaviour:
   annoySfx: {fileID: 8300000, guid: c715cd499b44d41428b2ab17ad4deb60, type: 3}
   calmSfx: {fileID: 0}
   annoyedColor: {r: 0.990566, g: 0.7233001, b: 0.7233001, a: 1}
+  barGO: {fileID: 0}
   graphic1: {fileID: 5038129486254692773}
   graphic2: {fileID: 4543807029116773566}
 --- !u!61 &2589562825730986794
@@ -841,8 +798,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: -2413806693520163455, guid: 4adeaf2d2b1c7417e89f026626d8264f,
-    type: 3}
+  m_Sprite: {fileID: -2413806693520163455, guid: 4adeaf2d2b1c7417e89f026626d8264f, type: 3}
   m_Color: {r: 0, g: 0, b: 0, a: 1}
   m_FlipX: 0
   m_FlipY: 0

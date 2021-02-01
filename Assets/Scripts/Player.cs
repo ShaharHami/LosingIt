@@ -79,9 +79,14 @@ public class Player : MonoBehaviour
     private void UpdateUI()
     {
         sanityBar.fillAmount = sanity / 100;
+        ColorBar(sanity / 100);
         sanityLevel.text = $"Sanity {sanity:F1}/100";
     }
-
+    private void ColorBar(float val)
+    {
+        sanityBar.color = Color.Lerp(Color.red, Color.green, val);
+    }
+    
     public void changeMood(int moodIdx)
     {
         if (moodIdx < 0 || moodIdx >= moods.Length)

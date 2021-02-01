@@ -1,4 +1,5 @@
 using System.Collections;
+using DG.Tweening;
 using UnityEngine;
 using UnityEngine.UI;
 
@@ -22,7 +23,7 @@ public abstract class Obstacle : MonoBehaviour
     {
         _obstacleManager = FindObjectOfType<ObstacleManager>();
         bar.fillAmount = 0;
-        // barGO.SetActive(false);
+        barGO.SetActive(false);
     }
 
     public enum State
@@ -36,15 +37,15 @@ public abstract class Obstacle : MonoBehaviour
     public virtual void Annoyed()
     {
         state = State.Annoying;
-        // barGO.SetActive(true);
+        barGO.SetActive(true);
         calmDownMeter = 1f;
         bar.fillAmount = 1;
+        ColorBar(calmDownMeter);
     }
 
     public virtual void Calm()
     {
         state = State.Idle;
-        // barGO.SetActive(false);
         calmDownMeter = 0;
     }
 
@@ -56,12 +57,19 @@ public abstract class Obstacle : MonoBehaviour
         if (calmDownMeter <= 0)
         {
             bar.fillAmount = 0;
+            barGO.SetActive(false);
             HidePrompt();
             _obstacleManager.canInteract = false;
             CoolDown();
         }
+        ColorBar(calmDownMeter);
     }
 
+    private void ColorBar(float val)
+    {
+        bar.color = Color.Lerp(Color.green, Color.red, val);
+    }
+    
     public virtual void CoolDown()
     {
         StartCoroutine(CoolDownTimed());

@@ -12,6 +12,7 @@ public class GameManager : MonoBehaviour
     public Player player;
     public float missionCompletion;
     public Image missionBar;
+    public Image missionBarFrame;
     public TextMeshProUGUI missionProgressText;
     public float missionCompletionRate;
     public float difficultyIncreaseDelay;
@@ -21,6 +22,7 @@ public class GameManager : MonoBehaviour
 
     private void Start()
     {
+        missionBarFrame.enabled = false;
         StartCoroutine(Difficulty());
         Time.timeScale = 1;
         minCheckDelay = 0.5f;
@@ -53,6 +55,7 @@ public class GameManager : MonoBehaviour
     
     public void AdvanceMission(float rate)
     {
+        missionBarFrame.enabled = true;
         if (missionCompletion < missionLength)
         {
             missionCompletion += rate * Time.deltaTime;

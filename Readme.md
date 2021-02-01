@@ -15,5 +15,6 @@ There's limited time and much to do. Try to not lose your sanity on the way... G
 All the assets used in the game were made by our team's artist for this project.
 
 ![I'm Losing It](/Assets/Screencaps/Screen4.png)
+![I'm Losing It](/Assets/Screencaps/Tutorial.png)
 ![I'm Losing It](/Assets/Screencaps/Screen3.png)
 ![I'm Losing It](/Assets/Screencaps/Screen5.png)
